@@ -1,0 +1,21 @@
+ul {
+  text-align: left;
+  color: purple;
+  font-weight: 999;
+  float: left;
+}
+
+img {
+  float: right;
+}
+
+p {
+    font-style: helvetica;
+    font-size: 20px;
+}
+
+p2 {
+  text-align: left;
+  font-size: 100px;
+  line-height: 20px;
+}
